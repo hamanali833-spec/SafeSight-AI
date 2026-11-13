@@ -1,0 +1,8 @@
+ultralytics==8.4.204
+onnx==1.23.2
+onnxslim==0.1.99
+onnxruntime==1.31.1
+lap
+pytest==9.2.0
+
+

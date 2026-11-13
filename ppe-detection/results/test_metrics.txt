@@ -1,0 +1,9 @@
+SafeSight AI - YOLOv8n test results (406 unseen images)
+
+Class        P      R      mAP50  mAP50-95
+helmet       0.908  0.843  0.895  0.578
+no_helmet    0.846  0.743  0.819  0.481
+no_vest      0.883  0.782  0.836  0.506
+person       0.935  0.860  0.907  0.689
+vest         0.929  0.865  0.919  0.664
+ALL          0.900  0.818  0.875  0.583
