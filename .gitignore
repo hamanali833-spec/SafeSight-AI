@@ -1,9 +1,27 @@
+# Python
 .venv/
+venv/
 __pycache__/
-.env
+*.pyc
+.pytest_cache/
+
+# Local data: every PC creates its own
+safesight.db
+test_safesight.db
 outputs/
-runs/
-.pytest_cache/  
 samples/
+*.mp4
+*.webm
+*.avi
 
+# Frontend (rebuilt by "npm install" / "python main.py")
+frontend/node_modules/
+frontend/dist/
 
+# Secrets and editor files
+.env
+.vscode/
+safesight.db
+test_safesight.db
+samples/
+outputs/
