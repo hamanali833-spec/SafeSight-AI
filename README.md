@@ -4,6 +4,8 @@ A real-time safety monitoring system that watches ordinary CCTV cameras, detects
 
 👥 **Team:** Haman Ali · Alishba Saeed · Roshane Asif
 
+🎬 **Demo video:** [Watch SafeSight AI in action](https://drive.google.com/file/d/159ZDuLL9_svML631Dy3fEj1SFDsF-zpG/view?usp=sharing)
+
 ---
 
 ## 🚀 Features
